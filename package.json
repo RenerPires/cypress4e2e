@@ -1,0 +1,11 @@
+{
+  "name": "cypress4e2e",
+  "version": "1.0.0",
+  "description": "Proof of Concept: Usage of Cypress as an End-to-End Testing Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rener Pires Dev",
+  "license": "MIT"
+}
