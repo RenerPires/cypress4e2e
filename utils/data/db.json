@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uuid": "dcbcf2a8-b01f-4662-8d0f-04672a4403c3",
+      "name": "Julio Cypress",
+      "email": "email.test.3273@mock.com.br"
+    }
+  ],
+  "profiles": []
+}

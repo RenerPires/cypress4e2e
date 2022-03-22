@@ -4,8 +4,11 @@
   "description": "Proof of Concept: Usage of Cypress as an End-to-End Testing Tool",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "fake-api": "json-server utils/data/db.json -p 3333 -d 500 -w"
   },
   "author": "Rener Pires Dev",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
 }
